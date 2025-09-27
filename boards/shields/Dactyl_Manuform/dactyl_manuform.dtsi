@@ -1,5 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include <dactyl_manuform-layouts.dtsi>
+#include "dactyl_manuform-layouts.dtsi"
 
 / {
     kscan0: kscan0 {
