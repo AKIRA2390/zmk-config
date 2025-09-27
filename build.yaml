@@ -20,6 +20,6 @@
 ---
 include:
   - board: stamp_c3
-    shield: Dactyl_Manuform_left
+    shield: dactyl_manuform_left
   - board: stamp_c3
-    shield: Dactyl_Manuform_right
+    shield: dactyl_manuform_right
